@@ -1,4 +1,4 @@
-# setup_debugserver
+# Setup debugserver
 How to install debugserver for iOS from macOS
 
 # Requirements
