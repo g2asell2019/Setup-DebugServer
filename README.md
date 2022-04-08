@@ -90,7 +90,7 @@ iPhone:~ root# debugserver_arm64
 
 ```
 
-- Start setting app in iphone -> `ps -ax | grep Preferences`
+- Start Settings app in iPhone -> `ps -ax | grep Preferences`
 
 ```
 
