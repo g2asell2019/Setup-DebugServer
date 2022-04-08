@@ -33,7 +33,7 @@ You can check which Xcode version is supported by your OS here:  [Xcode Support 
 ```
 - Example: iDevice version 12.0.1 => 12.0
 
-cd /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/DeviceSupport/12.0`
+cd /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/DeviceSupport/12.0
 
 ```
 - `hdiutil attach DeveloperDiskImage.dmg`
